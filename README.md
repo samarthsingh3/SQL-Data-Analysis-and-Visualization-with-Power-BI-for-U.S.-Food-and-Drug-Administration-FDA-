@@ -59,7 +59,7 @@ Drugs@FDA Dataset
 ## How to Run the Project
 1. Clone the repository to your local machine.
    ```bash
-   https://github.com/samarthsingh3/SQL-Data-Analysis-FDA.git](https://github.com/samarthsingh3/SQL-Data-Analysis-and-Visualization-with-Power-BI-for-U.S.-Food-and-Drug-Administration-FDA-/blob/main/SamarthSingh_ABADS_B9_SQL.zip
+   git clone https://github.com/samarthsingh3/SQL-Data-Analysis-FDA.git](https://github.com/samarthsingh3/SQL-Data-Analysis-and-Visualization-with-Power-BI-for-U.S.-Food-and-Drug-Administration-FDA-/blob/main/SamarthSingh_ABADS_B9_SQL.zip](https://github.com/samarthsingh3/SQL-Data-Analysis-and-Visualization-with-Power-BI-for-U.S.-Food-and-Drug-Administration-FDA-.git
    ```
 2. Open `Samarth MY SQL Project ABADS 9.sql` in your MySQL Workbench and execute the script to analyze the dataset.
 3. Open `Samarth Power BI Project ABADS 9.pbix` in Power BI to view the visualizations.
